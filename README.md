@@ -1,4 +1,4 @@
-# Code Quality Tools
+# xSDK Code Quality Tools
 
 The goal of this project is to facilitate the use of both general-purpose and custom code analysis tools with the 
 goal of improving the quality of software developed in the DOE xSDK ECP project, as well as more broadly within 
