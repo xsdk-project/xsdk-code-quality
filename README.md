@@ -56,3 +56,10 @@ git clone -b v1.0.0  --depth 1 --recurse-submodules --remote-submodules https://
 All available versions:  https://github.com/xsdk-project/xsdk-code-quality/tags
 
 (Containerized distribution coming soon!)
+
+## 4. Additional Resources
+
+### 4.1 Presentations
+
+* May 27, 2021: [A presentation to the xSDK Project](./docs/) 
+
